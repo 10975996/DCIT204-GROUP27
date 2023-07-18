@@ -1,9 +1,3 @@
-*.class
-~$Addresses.xlsx
-/java_dependencies
-/bin
-/dummy_data.csv
-/addresses.txt
-*.iml
-.idea
-out
+# Default ignored files
+/shelf/
+/workspace.xml
